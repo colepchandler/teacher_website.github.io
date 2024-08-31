@@ -1,0 +1,17 @@
+/* Header Styles */
+header {
+    background-color: #1f3a93; /* Navy Blue */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+header img {
+    width: 100px;
+    height: auto;
+}
